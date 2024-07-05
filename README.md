@@ -7,5 +7,5 @@ In this research, we investigate and design a standardised Federated Learning (F
 
 
 ## Folders
-Flower folder contains code for experiments with TabNet, CNN's(TF & PyTorch), FedDeepInsight and Logistic Regression.
-NVFlare folder contains code for XGBoost experiments and more that were not disccued in the thesis.
+- Flower folder contains code for experiments with TabNet, CNN's(TF & PyTorch), FedDeepInsight and Logistic Regression.
+- NVFlare folder contains code for XGBoost experiments and more that were not disccued in the thesis.

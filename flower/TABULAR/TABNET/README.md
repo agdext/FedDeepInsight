@@ -1,15 +1,11 @@
-# Flower TabNet Example using TensorFlow
+# TabNet Example using TensorFlow
+Note: This README is based on Flower [GitHub](https://github.com/adap/flower/tree/main/examples/quickstart-tabnet). 
 
 This introductory example to Flower uses Keras but deep knowledge of Keras is not necessarily required to run the example. However, it will help you understanding how to adapt Flower to your use-cases. You can learn more about TabNet from [paper](https://arxiv.org/abs/1908.07442) and its implementation using TensorFlow at [this repository](https://github.com/titu1994/tf-TabNet). Note also that the basis of this example using federated learning is the example from the repository above.
 
 ## Project Setup
 
-Start by cloning the example project. We prepared a single-line command that you can copy into your shell which will checkout the example for you:
-
-```shell
-git clone --depth=1 https://github.com/adap/flower.git && mv flower/examples/quickstart-tabnet . && rm -rf flower && cd quickstart-tabnet
-```
-
+Start by cloning the example project. 
 This will create a new directory called `quickstart-tabnet` containing the following files:
 
 ```shell

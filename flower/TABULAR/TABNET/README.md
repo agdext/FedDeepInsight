@@ -6,7 +6,7 @@ This introductory example to Flower uses Keras but deep knowledge of Keras is no
 ## Project Setup
 
 Start by cloning the example project. 
-This will create a new directory called `quickstart-tabnet` containing the following files:
+This will create a new directory containing the following files:
 
 ```shell
 -- pyproject.toml

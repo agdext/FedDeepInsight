@@ -1,20 +1,14 @@
 # Flower Example using scikit-learn
 
-This example of Flower uses `scikit-learn`'s `LogisticRegression` model to train a federated learning system on
-"iris" (tabular) dataset.
-It will help you understand how to adapt Flower for use with `scikit-learn`.
-Running this example in itself is quite easy. This example uses [Flower Datasets](https://flower.ai/docs/datasets/) to
-download, partition and preprocess the dataset.
+This example of Flower uses `scikit-learn`'s `LogisticRegression` model to train a federated learning system on tabular dataset.
+This example uses [Flower Datasets](https://flower.ai/docs/datasets/) to download, partition and preprocess the dataset.
 
 ## Project Setup
 
-Start by cloning the example project. We prepared a single-line command that you can copy into your shell which will checkout the example for you:
+Start by cloning the example project.
 
-```shell
-git clone --depth=1 https://github.com/adap/flower.git && mv flower/examples/quickstart-sklearn-tabular . && rm -rf flower && cd quickstart-sklearn-tabular
-```
 
-This will create a new directory called `quickstart-sklearn-tabular` containing the following files:
+This will create a new directory containing the following files:
 
 ```shell
 -- pyproject.toml

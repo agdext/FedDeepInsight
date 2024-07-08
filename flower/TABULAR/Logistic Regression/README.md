@@ -1,4 +1,5 @@
 # Flower Example using scikit-learn
+Note: This README is based on Flower [GitHub](https://github.com/adap/flower/tree/main/examples/quickstart-sklearn-tabular).
 
 This example of Flower uses `scikit-learn`'s `LogisticRegression` model to train a federated learning system on tabular dataset.
 This example uses [Flower Datasets](https://flower.ai/docs/datasets/) to download, partition and preprocess the dataset.

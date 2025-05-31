@@ -1,5 +1,3 @@
-# Thesis MSc Informtion Studies - Data Science
-
 ## A Privacy-First Federated Learning Architecture for Medical Data
 
 ## Abstract

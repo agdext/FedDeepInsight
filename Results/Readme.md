@@ -1,4 +1,4 @@
-# Contents: Density Matrix & Trustworthiness Score
+## Contents: Density Matrix & Trustworthiness Score
 This folder contains raw data files and a notebook for evaluating dimensionality reduction quality.
 
 ## Included Files:
@@ -13,12 +13,12 @@ Images of the plots generated
 density_map.ipynb: Jupyter notebook to load and plot the above data.
 trustowrthynessplot.ipynb: Jupyter notebook to load and plot the above data.
 
-Purpose:
+## Purpose:
 Density matrix shows the spatial distribution of reduced data.
 
 Trustworthiness score measures how well local structures are preserved.
 
-Usage:
+## Usage:
 Open ipynb files in Jupyter.
 
 Run cells to visualize the metrics.

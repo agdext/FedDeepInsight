@@ -2,16 +2,16 @@
 This folder contains raw data files and a notebook for evaluating dimensionality reduction quality.
 
 ## Included Files:
-feature_density_matrix_cancer: Raw density matrix data.
-feature_density_matrix_stroke: Raw density matrix data.
+- feature_density_matrix_cancer: Raw density matrix data.
+- feature_density_matrix_stroke: Raw density matrix data.
 
-trustworthiness_scores_cancer: Trustworthiness scores.
-trustworthiness_scores_stroke: Trustworthiness scores.
+- trustworthiness_scores_cancer: Trustworthiness scores.
+- trustworthiness_scores_stroke: Trustworthiness scores.
 
-Images of the plots generated
+- Images of the plots generated
 
-density_map.ipynb: Jupyter notebook to load and plot the above data.
-trustowrthynessplot.ipynb: Jupyter notebook to load and plot the above data.
+- density_map.ipynb: Jupyter notebook to load and plot the above data.
+- trustowrthynessplot.ipynb: Jupyter notebook to load and plot the above data.
 
 ## Purpose:
 Density matrix shows the spatial distribution of reduced data.
